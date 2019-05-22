@@ -46,8 +46,8 @@ var option_PDFF = {
 	backgroundImage: "pflip/background.jpg",
     backgroundColor: "#fff",
     controlsPosition: pdfflip.CONTROLSPOSITION.BOTTOM,
-    allControls: "outline,thumbnail,play,startPage,altPrev,pageNumber,altNext,endPage,zoomIn,zoomOut,fullScreen,download,sound,share",
-    hideControls: "",
+    allControls: "thumbnail,play,startPage,altPrev,pageNumber,altNext,endPage,zoomIn,zoomOut,fullScreen,download,sound",
+    hideControls: "outline,share",
 
 };
 
